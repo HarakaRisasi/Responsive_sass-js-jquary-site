@@ -1,3 +1,11 @@
+.hidden {
+  display: none; }
 
+section,
+.main_head {
+  position: relative; }
+
+.main_head {
+  min-height: 620px; }
 
 /*# sourceMappingURL=main.css.map */
