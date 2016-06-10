@@ -21,6 +21,9 @@ body .main_footer, .s_about li {
 .bg_light {
   background-color: #FAFAFA; }
 
+.main_color_bg {
+  background-color: #222; }
+
 .bg_dark {
   background-color: #222;
   color: #fff; }
